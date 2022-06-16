@@ -15,4 +15,3 @@ def load_sensor_data():
                 sensor_data.append(row)
 
     return sensor_data
-
